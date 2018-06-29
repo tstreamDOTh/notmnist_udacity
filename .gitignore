@@ -1,0 +1,18 @@
+
+# Created by https://www.gitignore.io/api/jupyternotebook
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+notMNIST_large
+notMNIST_small
+*/.tar.gz/*
+*/pickle/*
+
+
+*/.ipynb_checkpoints/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+
+# End of https://www.gitignore.io/api/jupyternotebook
